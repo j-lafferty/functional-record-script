@@ -11,3 +11,4 @@ The HTML script generate Python file does the following:
 - Adds pagination, sort, and sreach functionality
 
 The HTML file references the CSS and JS scripts within this repo.
+
